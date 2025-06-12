@@ -1,9 +1,9 @@
 # TEST 1: TTP Details
 
-Tactic = Exfiltration  
-TID = T1486 
-Technique Name = Exfiltration Over Web Service: Exfiltration to Cloud Storage 
-Procedure = WhatsApp exfiltration 
+- Tactic = Exfiltration  
+- TID = T1486 
+- Technique Name = Exfiltration Over Web Service: Exfiltration to Cloud Storage 
+- Procedure = WhatsApp exfiltration 
 
 ## Simulation and Execution
 

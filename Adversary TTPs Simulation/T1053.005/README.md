@@ -1,9 +1,9 @@
 # TEST 1: TTP Details
 
-Tactic = Lateral Movement 
-TID = T1053.005 
-Technique Name = Scheduled Task/Job: Scheduled Task 
-Procedure = Scheduled Tasks (Remote) command 
+- Tactic = Lateral Movement 
+- TID = T1053.005 
+- Technique Name = Scheduled Task/Job: Scheduled Task 
+- Procedure = Scheduled Tasks (Remote) command 
 
 ## Simulation and Execution
 

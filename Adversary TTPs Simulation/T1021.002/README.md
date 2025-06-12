@@ -1,9 +1,9 @@
 # TEST 1: TTP Details
 
-Tactic = Lateral Movement 
-TID = T1021.002 
-Technique Name = Remote Services: SMB/Windows Admin Shares 
-Procedure = Remote Service Creation using PsExec 
+- Tactic = Lateral Movement 
+- TID = T1021.002 
+- Technique Name = Remote Services: SMB/Windows Admin Shares 
+- Procedure = Remote Service Creation using PsExec 
 
 ## Simulation and Execution
 
